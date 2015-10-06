@@ -1,0 +1,28 @@
+{
+  "name": "slaborg",
+  "version": "1.0.0",
+  "description": "slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foysal/slaborg.git"
+  },
+  "keywords": [
+    "slack",
+    "node.js"
+  ],
+  "author": "foysal ahamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foysal/slaborg/issues"
+  },
+  "homepage": "https://github.com/foysal/slaborg#readme",
+  "dependencies": {
+    "giphy-api": "^1.0.8",
+    "lodash": "^3.10.1",
+    "slack-client": "^1.4.1"
+  }
+}
